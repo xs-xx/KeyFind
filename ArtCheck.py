@@ -5,7 +5,7 @@ import hashlib
 import base58
 import os
 import cryptofuzz
-import anime1
+
 
 # Path to the text file containing the list of words
 word_list_file = "3.txt"
